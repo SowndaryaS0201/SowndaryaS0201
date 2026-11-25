@@ -15,7 +15,6 @@
 ## 👩‍💻 About me
 
 - 🎓 B.Tech in Information Technology (2026), Sri Venkateswara College of Engineering
-- ⚙️ Part of a **DevOps team**, working on version control, migration and release workflows
 - 💼 Former project intern at **Virtusa**, where I built a Java-based stack project
 - 🌱 Learning Docker, Jenkins, Linux and cloud
 - 🤝 Always happy to collaborate on open source
